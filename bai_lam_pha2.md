@@ -39,7 +39,7 @@
     "ghi_chu": "hỗ trợ tìm chỗ cho người khiếm thị"
   }
 ]
-
+```
 https://share.gemini.google/2xN8Y2xA57Yi
 
 ## 4.3. Báo giá vé bằng Chain-of-Thought
@@ -94,6 +94,7 @@ Giảm giá nhóm: 7.680.000 x 5% = 384.000 đồng
 Phụ thu: 1 x 300.000 = 300.000 đồng
 Tổng tiền: (7.680.000 - 384.000) + 300.000 = 7.296.000 + 300.000 = 7.596.000 đồng
 [RESULT:7596000đồng]
+```
 ```
 https://share.gemini.google/9fX8LifGfjmJ
 
