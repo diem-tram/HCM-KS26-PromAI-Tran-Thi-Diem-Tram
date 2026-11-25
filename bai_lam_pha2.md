@@ -41,7 +41,6 @@
 ]
 
 ```
-```
 
 https://share.gemini.google/2xN8Y2xA57Yi
 
@@ -118,7 +117,6 @@ kết quả AI trả về là đúng
   "tom_tat": "Hai khách mua vé gói SVT bị xếp sai sang khu vực không mái che trong 2 hiệp đầu."
 }
 
-```
 ```
 
 https://share.gemini.google/8NJ78q85tsne
